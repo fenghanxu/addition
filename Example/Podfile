@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'addition_Example' do
+  pod 'addition', :path => '../'
+
+  target 'addition_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

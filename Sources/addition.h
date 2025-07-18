@@ -8,5 +8,8 @@
 #ifndef addition_h
 #define addition_h
 
+FOUNDATION_EXPORT double additionVersionNumber;
+FOUNDATION_EXPORT const unsigned char additionVersionString[];
+
 
 #endif /* addition_h */

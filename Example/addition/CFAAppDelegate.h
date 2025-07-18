@@ -1,0 +1,15 @@
+//
+//  CFAAppDelegate.h
+//  addition
+//
+//  Created by 冯汉栩 on 07/18/2025.
+//  Copyright (c) 2025 冯汉栩. All rights reserved.
+//
+
+@import UIKit;
+
+@interface CFAAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
